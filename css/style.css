@@ -1,0 +1,147 @@
+.tophead{
+    background-color: #20737B;
+    padding: 6px 0 15px 0;
+}
+.head1 h4{
+    font-family: sans-serif;
+    font-size: 21px;
+    color: #FFFFFF;
+}
+.topicon i{
+    color: #fff;
+}
+.head2 h4{
+    font-family: sans-serif;
+    font-size: 25px;
+    color: #FFF;
+}
+.header-area{
+    padding: 10px 0;
+}
+#welcome{
+    background-color: #FFFFFF;
+    padding: 25px 0;
+}
+.welcome-details p{
+    font-family: sans-serif;
+    font-size: 18px;
+    text-align: justify;
+}
+#iconbar{
+    background-color: #F8F8F8;
+    padding: 20px 0;
+}
+.iconbar-item{
+    padding: 20px 10px;
+}
+.iconbar-item img{
+    height: 90px;
+    width: 80px;
+    padding-bottom: 8px;
+}
+.iconbar-item h2{
+    color: #A36F29;
+}
+.iconbar-item p{
+    text-align: justify;
+    font-family: sans-serif;
+}
+#facilities{
+    background-color: #FFFFFF;
+    padding: 15px 0;
+}
+.common-head{
+    color: #5B6B88;
+}
+.facilities-item img{
+    height: 85px;
+    width: 80px;
+    padding-bottom: 8px;
+}
+.facilities-item p{
+    text-align: justify;
+    font-family: sans-serif;
+}
+#counseling{
+    background-color: #FFF;
+    padding: 20px 0;
+}
+common-head{
+    padding: 25px 0 30px 0;
+}
+.common-head h2{
+    font-size: 30px;
+    color: #DE5449;
+    font-family: sans-serif;    
+}
+.common-head p{
+    font-family: sans-serif;
+}
+.counseling-img img{
+    height: 250px;
+    width: 600px;
+}
+#other-achive{
+    padding: 25px 0;
+}
+#leader{
+    background-color: #F8F8F8;
+    padding: 20px 0;
+}
+.leader-slider{
+    padding: 20px 0;
+}
+.leader-speach p{
+    font-family: sans-serif;
+    text-align: justify;
+}
+.leader-speach h4{
+    font-family: sans-serif;
+    padding-top: 25px;
+}
+.registraion a{
+    margin-left: 10px;
+    margin-bottom: 12px;
+}
+.headbar-2{
+    padding: 0px 0 0 10px;
+}
+
+.menu li a{
+    color: #000;
+    font-weight: 500;
+    font-size: 14px;
+    border: 1px solid #FFF;
+}
+.menu li a:hover{
+    color: #FF1A2C;
+}
+#partners{
+    padding: 25px 0;
+}
+.col img{
+    height: 100px;
+    width: 100px;
+}
+.common-head2 h2{
+    padding: 10px 0 15px 0;
+    font-family: sans-serif;
+}
+#footer{
+    padding: 30px 0;
+    background-color: #F5F5F5;
+}
+.footer-logo img{
+    height: 100px;
+    width: 130px;
+}
+.footer-logo h4{
+    font-family: sans-serif;
+    font-size: 17px;
+    padding-top: 33px;
+}
+.contact ul li a{
+    text-decoration: none;
+    color: #000;
+    font-family: sans-serif;
+}
